@@ -1,2 +1,16 @@
-# Islami_App
-App features: 1-welcome screen 2-5 tabs :1)quran it contains list of all quran-suras with detailed page and a most recent list for last visited suras searchbar for any sura 2)hadeeth contains a slides of 50 hadeeths with detailed page3)sebha every 33 times elzikr changes4)radio list of radios and reciters5)time praye-times and azkar morning-evening
+# islami
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
